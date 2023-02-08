@@ -1,0 +1,15 @@
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\bin\Release\net6.0\ReverseAllWords.exe
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\bin\Release\net6.0\ReverseAllWords.deps.json
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\bin\Release\net6.0\ReverseAllWords.runtimeconfig.json
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\bin\Release\net6.0\ReverseAllWords.dll
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\bin\Release\net6.0\ReverseAllWords.pdb
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.csproj.AssemblyReference.cache
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.AssemblyInfoInputs.cache
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.AssemblyInfo.cs
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.csproj.CoreCompileInputs.cache
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.dll
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\refint\ReverseAllWords.dll
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.pdb
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ReverseAllWords.genruntimeconfig.cache
+D:\Git\LearningCSharp\ReverseAllWords\ReverseAllWords\obj\Release\net6.0\ref\ReverseAllWords.dll
